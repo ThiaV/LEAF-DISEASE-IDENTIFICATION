@@ -1,0 +1,74 @@
+{
+    "benh_gi_sat": {
+        "mô_tả": "Bệnh gây sần sùi trên lá cây, ảnh hưởng đến khả năng quang hợp.",
+        "biện_pháp": "Sử dụng thuốc trừ sâu sinh học hoặc các biện pháp dân gian như xịt nước vôi loãng.",
+        "mùa_phát_triển": "Mùa mưa",
+        "chăm_sóc": "Tỉa bớt cành lá, tránh để cây quá ẩm.",
+        "triệu_chứng": "Lá xuất hiện các đốm đen, sần sùi và có thể khô héo.",
+        "nguyên_nhân": "Do côn trùng và nấm gây ra trong điều kiện độ ẩm cao.",
+        "phòng_ngừa": "Phun thuốc phòng trừ và duy trì khoảng cách giữa các cây.",
+        "thời_gian_điều_trị": "Khoảng 3 tuần với điều trị đều đặn.",
+        "cây_dễ_bị": ["Cây xoài", "Cây ổi", "Cây cam"],
+        "mức_độ_nghiêm_trọng": "Trung bình"
+    },
+    "benh_phan_trang": {
+        "mô_tả": "Bệnh này làm lá cây xuất hiện các đốm trắng, ảnh hưởng đến sự phát triển của cây.",
+        "biện_pháp": "Dùng thuốc phòng trừ nấm hoặc phun dung dịch đồng để ngăn bệnh.",
+        "mùa_phát_triển": "Cuối mùa xuân",
+        "chăm_sóc": "Đảm bảo lá cây luôn khô ráo, tránh tưới nước trực tiếp vào lá.",
+        "triệu_chứng": "Lá có những đốm trắng nhỏ, có thể lan rộng ra cả lá.",
+        "nguyên_nhân": "Nấm mốc phát triển mạnh trong điều kiện ẩm ướt.",
+        "phòng_ngừa": "Sử dụng thuốc chống nấm định kỳ và giữ vệ sinh vườn.",
+        "thời_gian_điều_trị": "2-4 tuần nếu được chăm sóc kỹ.",
+        "cây_dễ_bị": ["Cây hoa hồng", "Cây dưa leo", "Cây bầu bí"],
+        "mức_độ_nghiêm_trọng": "Nhẹ"
+    },
+    "chay_la": {
+        "mô_tả": "Bệnh làm lá bị khô héo và rụng sớm, thường do thiếu nước hoặc bị phơi nắng quá mức.",
+        "biện_pháp": "Cần tưới nước đều đặn và che chắn cây trong những ngày nắng gắt.",
+        "mùa_phát_triển": "Mùa hè",
+        "chăm_sóc": "Tưới nước vào buổi sáng hoặc chiều tối, tránh tưới vào giữa trưa.",
+        "triệu_chứng": "Lá khô và có màu vàng, sau đó chuyển nâu và rụng.",
+        "nguyên_nhân": "Thiếu nước hoặc bị tổn thương do ánh nắng trực tiếp.",
+        "phòng_ngừa": "Đảm bảo tưới nước đủ và che chắn cây vào mùa nắng.",
+        "thời_gian_điều_trị": "1-2 tuần để phục hồi sau khi cải thiện điều kiện.",
+        "cây_dễ_bị": ["Cây cà chua", "Cây đậu xanh", "Cây ngô"],
+        "mức_độ_nghiêm_trọng": "Vừa phải"
+    },
+    "do_con_trung": {
+        "mô_tả": "Lá cây bị thủng hoặc hư hỏng do côn trùng cắn phá, ảnh hưởng đến sinh trưởng của cây.",
+        "biện_pháp": "Sử dụng các loại thuốc diệt côn trùng hoặc phương pháp hữu cơ.",
+        "mùa_phát_triển": "Mùa mưa",
+        "chăm_sóc": "Thường xuyên kiểm tra cây để phát hiện sớm côn trùng.",
+        "triệu_chứng": "Lá bị rách hoặc thủng, có dấu vết của côn trùng.",
+        "nguyên_nhân": "Các loại côn trùng như sâu, rệp hoặc bọ ăn lá.",
+        "phòng_ngừa": "Phun thuốc phòng ngừa định kỳ, trồng cây xung quanh để xua đuổi côn trùng.",
+        "thời_gian_điều_trị": "Tùy thuộc vào loại côn trùng, thường khoảng 1-2 tuần.",
+        "cây_dễ_bị": ["Cây cải xanh", "Cây rau muống", "Cây ớt"],
+        "mức_độ_nghiêm_trọng": "Nghiêm trọng"
+    },
+    "dom_la": {
+        "mô_tả": "Bệnh làm lá cây xuất hiện các đốm nâu đen, khiến lá cây suy yếu.",
+        "biện_pháp": "Sử dụng thuốc chống nấm hoặc các biện pháp sinh học để ngăn ngừa.",
+        "mùa_phát_triển": "Đầu mùa xuân",
+        "chăm_sóc": "Tránh để cây tiếp xúc với nước quá nhiều, đặc biệt là nước đọng trên lá.",
+        "triệu_chứng": "Đốm nâu đen xuất hiện trên lá, có thể lan rộng.",
+        "nguyên_nhân": "Do nấm và vi khuẩn phát triển trong môi trường ẩm ướt.",
+        "phòng_ngừa": "Phun thuốc phòng ngừa và cắt tỉa lá bệnh để tránh lây lan.",
+        "thời_gian_điều_trị": "Khoảng 3-4 tuần để cây hồi phục.",
+        "cây_dễ_bị": ["Cây táo", "Cây xoài", "Cây lê"],
+        "mức_độ_nghiêm_trọng": "Trung bình"
+    },
+    "la_khoe": {
+        "mô_tả": "Cây có lá phát triển tốt, không có dấu hiệu của sâu bệnh.",
+        "biện_pháp": "Duy trì điều kiện chăm sóc tốt và bón phân đều đặn.",
+        "mùa_phát_triển": "Mọi mùa",
+        "chăm_sóc": "Đảm bảo tưới nước và bón phân theo chu kỳ.",
+        "triệu_chứng": "Lá xanh tươi, không có đốm hoặc vết rách.",
+        "nguyên_nhân": "Không có bệnh.",
+        "phòng_ngừa": "Tiếp tục chăm sóc như hiện tại để duy trì sức khỏe của cây.",
+        "thời_gian_điều_trị": "Không cần thiết.",
+        "cây_dễ_bị": ["Mọi loại cây trồng"],
+        "mức_độ_nghiêm_trọng": "Không áp dụng"
+    }
+}
